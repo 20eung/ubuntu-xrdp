@@ -115,7 +115,6 @@ $sudo service xrdp restart
 
 ![](img/mobaxterm7.png)
 
-![](img/mobaxterm8.png)
 
 
 ## 5. 한글 설정
@@ -139,10 +138,17 @@ ibus-daemon -drx
 ```
 
 ```sh
-$ gsettings set org.freedesktop.ibus.general engines-order "['hangul', 'xkb:kr:kr104:kor']"
-$ gsettings set org.freedesktop.ibus.general preload-engines "['hangul']"
+$gsettings set org.freedesktop.ibus.general engines-order "['hangul', 'xkb:kr:kr104:kor']"
+$gsettings set org.freedesktop.ibus.general preload-engines "['hangul']"
 ```
 
+![](img/mobaxterm8.png)
+
+```sh
+$sudo apt install fonts-nanum
+$sudo reboot
+```
+![](img/mobaxterm9.png)
 
 
 
