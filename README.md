@@ -56,5 +56,16 @@ $ sudo adduser xrdp ssl-cert
 # sudo systemctl restart xrdp
 ```
 
+## 2. xRDP 설정
+
+```sh
+$ sudo vi /etc/xrdp/xrdp.ini
+```
+
+```
+port=tcp://:3389
+```
+
+
 # 참고링크
 - How to Install & Use xRDP (Remote Desktop) on Ubuntu 22.04|20.04: https://bytexd.com/xrdp-ubuntu/
