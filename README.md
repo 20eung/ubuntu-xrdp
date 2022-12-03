@@ -154,3 +154,8 @@ $sudo reboot
 
 # 참고링크
 - How to Install & Use xRDP (Remote Desktop) on Ubuntu 22.04|20.04: https://bytexd.com/xrdp-ubuntu/
+- How to Install and Configure VNC on Ubuntu 22.04 : https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-22-04
+- 우분투 또는 우분투 서버에 RDP로 원격 연결 사용하기 : https://www.bearpooh.com/98
+- xfce4 한글 설정 방법입니다 : https://www.clien.net/service/board/cm_linux/16641914
+- Ubuntu 22.04 한글설정 (chrome 안 되는 문제 포함) : https://jongsky.tistory.com/8
+- 라즈베리파이 한글폰트 설치하기 : https://majg.tistory.com/5
