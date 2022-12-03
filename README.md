@@ -10,7 +10,7 @@ Ubuntu 20.04 또는 20.04 서버에 xRDP를 설치하고,
 
 ## 1. Ubuntu 22.04/20.04에 xRDP 설치
 
-```bash
+```sh
 ubuntu@ocivm:~$ sudo apt update
 ```
 
