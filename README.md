@@ -98,9 +98,22 @@ $sudo service xrdp restart
 ## 4. Remte Desktop 연결
 
 ### Windows
+![](img/mstsc.png)
 
 ### MobaXterm
+![](img/mobaxterm1.png)
 
+![](img/mobaxterm2.png)
+
+![](img/mobaxterm3.png)
+
+![](img/mobaxterm4.png)
+
+![](img/mobaxterm5.png)
+
+![](img/mobaxterm6.png)
+
+![](img/mobaxterm7.png)
 
 ## 5. 한글 설정
 
