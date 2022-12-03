@@ -115,6 +115,9 @@ $sudo service xrdp restart
 
 ![](img/mobaxterm7.png)
 
+![](img/mobaxterm8.png)
+
+
 ## 5. 한글 설정
 
 ### ibus-hangul
